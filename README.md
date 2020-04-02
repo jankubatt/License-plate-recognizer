@@ -1,9 +1,9 @@
 # License plate recognizer
-Tells in which country the car was registered.
+Tells in which part of the CR car was registered.
 
 # Info
--C# <br>
--Console App
+- C# <br>
+- Console App
 
 # What I Learned
--Working with text
+- Working with text
